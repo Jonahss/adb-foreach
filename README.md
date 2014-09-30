@@ -5,13 +5,13 @@ Spread your adb command to all connected devices
 
 ###Usage###
 ```
-$>adb-devices get-state
+$>adb-foreach get-state
 $>4d00a90f4ee0118d : device
 $>emulator-5554 : device
 ```
 
 ```
-$>adb-devices uninstall io.appium.android.apis
+$>adb-foreach uninstall io.appium.android.apis
 $>4d00a90f4ee0118d : Success
 $>emulator-5554 : Success
 ```
