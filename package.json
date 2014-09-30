@@ -1,6 +1,6 @@
 {
   "name": "adb-foreach",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commandline tool to send commands to all Android devices currently connected to your machine",
   "main": "index.js",
   "bin": "index.js",
